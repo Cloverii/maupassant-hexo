@@ -20,15 +20,15 @@ menu:
   - page: archive
     directory: archives/
     icon: fa-archive
-##  - page: about
-##    directory: about/
-##    icon: fa-user
+  - page: about
+    directory: about/
+    icon: fa-user
 ##  - page: rss
 ##    directory: atom.xml
 ##    icon: fa-rss
 
 widgets: ## Six widgets in sidebar provided: search, category, tag, recent_posts, rencent_comments and links.
-##  - search
+  - search
   - category
   - tag
   - recent_posts
